@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="037b3ccb-118c-4988-b406-42394dd8b9cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkyWebAutomation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/browserFactory/BrowserDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/browserFactory/ChromeBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/browserFactory/FirefoxBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/drivers/DriverInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/drivers/DriverProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/TalkyPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/Browsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.Properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/annotations/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/annotations/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/annotations/TestCaseNotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/annotations/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/talkyTest/TalkyTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/browserFactory/BrowserDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/browserFactory/ChromeBrowser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/browserFactory/FirefoxBrowser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config.Properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/drivers/DriverInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/drivers/DriverProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pages/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pages/TalkyPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/utilities/Browsers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/utilities/ConfigReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/annotations/Author.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/annotations/Priority.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/annotations/TestCaseNotes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/annotations/Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/talkyTest/TalkyTestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testbase/TestBase.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VeNVTtgn07xDo2pIcYO5y7AHbU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testbase" />
+      <recent name="talkyTest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TalkyTestCase.verifyUserShouldAbleToSearchProductAsGuest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TalkyWebAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="talkyTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="talkyTest" />
+      <option name="MAIN_CLASS_NAME" value="talkyTest.TalkyTestCase" />
+      <option name="METHOD_NAME" value="verifyUserShouldAbleToSearchProductAsGuest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TalkyTestCase.verifyUserShouldAbleToSearchProductAsGuest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="037b3ccb-118c-4988-b406-42394dd8b9cf" name="Default Changelist" comment="" />
+      <created>1577609624230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577609624230</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1577609743629">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1577609743629" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1577611277264">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577611277264" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1577611277262">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577611277262" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1577611277260">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577611277260" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1577611277263">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577611277263" />
+  </component>
+</project>
