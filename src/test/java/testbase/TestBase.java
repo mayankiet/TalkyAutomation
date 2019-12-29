@@ -15,7 +15,6 @@ import java.util.concurrent.TimeUnit;
 public class TestBase {
 
     public static WebDriver driver;
-   // public static WebElement driver1;
     protected ConfigReader configReader;
     protected TalkyPage talkyPage;
 
