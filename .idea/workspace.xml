@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="037b3ccb-118c-4988-b406-42394dd8b9cf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/talkyTest/TalkyTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/talkyTest/TalkyTestCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,5 +183,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="475" y="161" key="VCS.ChangeListViewerDialog/0.0.1440.900@0.0.1440.900" timestamp="1577618928805" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1577619374039">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1577619374039" />
   </component>
 </project>

@@ -5,14 +5,9 @@ import annotations.TestCaseNotes;
 import annotations.Tester;
 import drivers.DriverInitializer;
 import drivers.DriverProvider;
-import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
-import org.testng.Assert;
-import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import testbase.TestBase;
-import org.testng.Assert;
 
 public class TalkyTestCase extends TestBase{
 
