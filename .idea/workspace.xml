@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="037b3ccb-118c-4988-b406-42394dd8b9cf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/browserFactory/ChromeBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/browserFactory/ChromeBrowser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/browserFactory/FirefoxBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/browserFactory/FirefoxBrowser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/TalkyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/TalkyPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/ConfigReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/talkyTest/TalkyTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/talkyTest/TalkyTestCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testbase/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testbase/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/TalkyPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/TalkyPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/talkyTest/TalkyTestCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/talkyTest/TalkyTestCase.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,5 +178,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1577618150131" />
+    <state x="475" y="161" key="VCS.ChangeListViewerDialog" timestamp="1577618928805">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="475" y="161" key="VCS.ChangeListViewerDialog/0.0.1440.900@0.0.1440.900" timestamp="1577618928805" />
   </component>
 </project>
